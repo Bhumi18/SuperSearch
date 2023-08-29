@@ -9,3 +9,5 @@ if (module.hot) module.hot.accept();
 
 /* eslint-disable no-undef */
 ReactDOM.render(<App />, document.getElementById("app"));
+
+export { App };
