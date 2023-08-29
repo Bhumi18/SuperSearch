@@ -8,6 +8,6 @@ import App from "./components/App";
 if (module.hot) module.hot.accept();
 
 /* eslint-disable no-undef */
-ReactDOM.render(<App />);
+<App />;
 
 // export { ChatWidget };

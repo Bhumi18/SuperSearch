@@ -36,7 +36,7 @@ eval("// import React from \"react\";\n// // const sdk = require(\"api\")(\"@tro
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var react_dom__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react-dom */ \"./node_modules/react-dom/index.js\");\n/* harmony import */ var _components_App__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./components/App */ \"./src/components/App.js\");\n/* harmony import */ var _components_App__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_components_App__WEBPACK_IMPORTED_MODULE_2__);\n\n\n\n// import ChatWidget from \"./components/ChatWidget\";\n// import \"./index.css\";\n\n// Opt-in to Webpack hot module replacement\nif (true) module.hot.accept();\n\n/* eslint-disable no-undef */\nreact_dom__WEBPACK_IMPORTED_MODULE_1__.render( /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement((_components_App__WEBPACK_IMPORTED_MODULE_2___default()), null));\n\n// export { ChatWidget };\n\n//# sourceURL=webpack://$/./src/index.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var react_dom__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react-dom */ \"./node_modules/react-dom/index.js\");\n/* harmony import */ var _components_App__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./components/App */ \"./src/components/App.js\");\n/* harmony import */ var _components_App__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_components_App__WEBPACK_IMPORTED_MODULE_2__);\n\n\n\n// import ChatWidget from \"./components/ChatWidget\";\n// import \"./index.css\";\n\n// Opt-in to Webpack hot module replacement\nif (true) module.hot.accept();\n\n/* eslint-disable no-undef */\n/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement((_components_App__WEBPACK_IMPORTED_MODULE_2___default()), null);\n\n// export { ChatWidget };\n\n//# sourceURL=webpack://$/./src/index.js?");
 
 /***/ }),
 
@@ -203,7 +203,7 @@ eval("\n\nif (false) {} else {\n  module.exports = __webpack_require__(/*! ./cjs
 /******/ 	
 /******/ 	/* webpack/runtime/getFullHash */
 /******/ 	(() => {
-/******/ 		__webpack_require__.h = () => ("19a6905a8f3e75f40463")
+/******/ 		__webpack_require__.h = () => ("0c0e3bcb3c99e3374393")
 /******/ 	})();
 /******/ 	
 /******/ 	/* webpack/runtime/global */
