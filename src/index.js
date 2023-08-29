@@ -10,4 +10,4 @@ if (module.hot) module.hot.accept();
 /* eslint-disable no-undef */
 ReactDOM.render(<ChatWidget />);
 
-export { App, ChatWidget };
+export { ChatWidget };
