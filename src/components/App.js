@@ -8,11 +8,11 @@ function App() {
     console.log("get data");
     try {
       const response = await axios.get(
-        "https://api.trongrid.io/wallet/getaccount",
+        "https://api.trongrid.io/wallet/gettransactioninfobyid",
         {
           params: {
-            address: "TK2HxDagVEKk9vykJZbpqB7P1EVANJvkhY",
-            visible: true,
+            value:
+              "79fdfae7565eba70084a9577542659e39c5ed02a3194b7428f2dfb2f2ab2625c",
           },
         }
       );
